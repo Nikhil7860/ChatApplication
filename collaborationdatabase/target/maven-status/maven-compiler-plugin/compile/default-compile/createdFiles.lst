@@ -1,0 +1,13 @@
+com\niit\chat\config\CrosFilter.class
+com\niit\chat\model\UserInfo.class
+com\niit\chat\servicedao\ServiceDao.class
+com\niit\chat\dao\UserInfoDaoImpl.class
+com\niit\chat\model\ChatMessage.class
+com\niit\chat\model\Authorization.class
+com\niit\chat\config\EmailConfig.class
+com\niit\chat\model\ChatMessage$MessageType.class
+com\niit\chat\config\ApplicationContextConfig.class
+com\niit\chat\emailservice\EmailService.class
+com\niit\chat\dao\UserInfoDao.class
+com\niit\chat\model\Error.class
+com\niit\chat\servicedao\ServiceDaoImpl.class
